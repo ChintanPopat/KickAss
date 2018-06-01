@@ -1,0 +1,59 @@
+.dropdown-content li>a, .dropdown-content li>span{
+	color:#4fc3f7;
+}
+a{
+	color: white;
+}
+.select-wrapper input.select-dropdown:focus {
+    border-bottom: 1px solid #4fc3f7;
+}
+input.select-dropdown:focus {
+    border-bottom: 1px solid #4fc3f7;
+}
+
+.input-field .prefix .active {
+     color: #4fc3f7;
+   }
+.icon-blue{
+	color: #4fc3f7;
+}
+nav .input-field label i{
+	color: #4fc3f7;
+}
+.row .col.l3{
+    margin-top: 15px;
+}
+.btn{
+	margin-top: 10px;
+}
+.collection .collection-item {
+	line-height: 3rem;
+}
+.material-icons{
+	font-size: 35px;
+}
+.crow{
+	margin-bottom: 0px;
+}
+
+.date_i{
+	padding-left: 3%;
+}
+
+.mark_adjust{
+    position: relative;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1320px;
+    width: 100%;
+}
+.select-wrapper input.select-dropdown {
+    margin: 5px 0px 10px 0px;
+}
+.modal.bottom-sheet {
+    max-height: 100%;
+}
